@@ -36,7 +36,7 @@ Enumera todos los componentes usados:
 
 ## Reporte
 
-Incluye [Resultados.pdf]([reporte_practica_arduino_v2.pdf]
+Incl"C:\Users\reyes\Downloads\reporte_practica_arduino_v2.pdf"uye 
 
 * Gráficas (insertar imagen o link)
 * Tablas de datos
