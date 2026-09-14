@@ -22,7 +22,7 @@ Enumera todos los componentes usados:
 
 ## Diagrama del circuito
 
-<img width="1040" height="736" alt="Diagrama practica arduino" src="https://github.com/user-attachments/assets/b7dde013-be96-42d3-b8ae-a8ae3bf88c1e" />
+<img src="Diagrama practica arduino" width="300">
 
 
 ## Código
