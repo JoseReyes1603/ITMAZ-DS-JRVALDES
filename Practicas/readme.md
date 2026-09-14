@@ -48,7 +48,7 @@ La práctica permitió reforzar el uso de las funciones básicas de salida digit
 
 ## Resultados
 
-[Resultados.pdf](ruta/a/tu/Resultados.pdf)
+[https://www.google.com/url?sa=E&source=gmail&q=https://drive.google.com/file/d/1hVAEnLIs9dwElO8hZ47nfIvId0YkBo6y/view?usp=drive_web)
 
 Este documento contiene la descripción de la práctica, objetivos y procedimientos realizados.
 
