@@ -22,7 +22,7 @@ Enumera todos los componentes usados:
 
 ## Diagrama del circuito
 
-![Diagrama del circuito](ruta/a/tu/imagen.png)
+![Diagrama del circuito](Evidencia arduino foto.jpeg)
 
 ## Código
 
