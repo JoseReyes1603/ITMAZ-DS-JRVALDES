@@ -36,7 +36,7 @@ Enumera todos los componentes usados:
 
 ## Reporte
 
-Incl"C:\Users\reyes\Downloads\reporte_practica_arduino_v2.pdf"uye 
+https://www.google.com/url?sa=E&source=gmail&q=https://drive.google.com/file/d/1hVAEnLIs9dwElO8hZ47nfIvId0YkBo6y/view?usp=drive_web 
 
 * Gráficas (insertar imagen o link)
 * Tablas de datos
