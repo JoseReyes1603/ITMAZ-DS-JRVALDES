@@ -22,7 +22,8 @@ Enumera todos los componentes usados:
 
 ## Diagrama del circuito
 
-![Diagrama del circuito]("C:\Users\reyes\Downloads\Diagrama practica arduino.jpeg")
+<img width="1040" height="736" alt="Diagrama practica arduino" src="https://github.com/user-attachments/assets/b7dde013-be96-42d3-b8ae-a8ae3bf88c1e" />
+
 
 ## Código
 
