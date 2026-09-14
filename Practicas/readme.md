@@ -32,7 +32,7 @@ Enumera todos los componentes usados:
 
 [Readme](ruta/a/tu/archivo)
 
-[Ver video en YouTube](https://www.youtube.com/watch?v=T5Aq7dRc-mU)
+[Ver video en YouTube](https://youtube.com/shorts/op4nnYcA8Ng?feature=share)
 
 ## Reporte
 
